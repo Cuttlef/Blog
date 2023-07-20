@@ -7,7 +7,7 @@
     <link href="https://lzai.fun/atom.xml" rel="self"/>
     
     <link href="https://lzai.fun/"/>
-    <updated>2023-07-19T01:53:18.762Z</updated>
+    <updated>2023-07-20T09:59:31.281Z</updated>
     <id>https://lzai.fun/</id>
     
     <author>
@@ -16,6 +16,27 @@
     </author>
     
     <generator uri="https://hexo.io/">Hexo</generator>
+    
+    <entry>
+        <title>模拟行走机器人</title>
+        <link href="https://lzai.fun/posts/64839.html"/>
+        <id>https://lzai.fun/posts/64839.html</id>
+        <published>2023-07-20T09:56:50.288Z</published>
+        <updated>2023-07-20T09:59:31.281Z</updated>
+        
+        <summary type="html">
+            
+            模拟行走机器人
+            
+        </summary>
+        
+        
+        <category term="刷题" scheme="https://lzai.fun/categories/%E5%88%B7%E9%A2%98/"/>
+        
+        
+        <category term="算法" scheme="https://lzai.fun/tags/%E7%AE%97%E6%B3%95/"/>
+        
+    </entry>
     
     <entry>
         <title>包含每个查询的最小区间</title>
@@ -151,7 +172,7 @@
         <link href="https://lzai.fun/posts/43874.html"/>
         <id>https://lzai.fun/posts/43874.html</id>
         <published>2023-07-10T01:18:36.867Z</published>
-        <updated>2023-07-12T13:18:36.934Z</updated>
+        <updated>2023-07-20T09:51:15.206Z</updated>
         
         <summary type="html">
             
