@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.w3.org/2005/Atom ">
-    <title>zzJ</title>
+    <title>布知</title>
     
-    <subtitle>zzJ的个人博客</subtitle>
+    <subtitle>布知</subtitle>
     <link href="https://lzai.fun/atom.xml" rel="self"/>
     
     <link href="https://lzai.fun/"/>
