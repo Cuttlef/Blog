@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lzai.fun/posts/60710.html</loc>
+    
+    <lastmod>2023-08-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lzai.fun/posts/43874.html</loc>
     
     <lastmod>2023-08-08</lastmod>
@@ -222,6 +231,13 @@
   
   <url>
     <loc>https://lzai.fun/tags/123/</loc>
+    <lastmod>2023-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lzai.fun/tags/Java/</loc>
     <lastmod>2023-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

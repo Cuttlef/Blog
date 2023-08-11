@@ -7,7 +7,7 @@
     <link href="https://lzai.fun/atom.xml" rel="self"/>
     
     <link href="https://lzai.fun/"/>
-    <updated>2023-07-20T10:03:27.305Z</updated>
+    <updated>2023-08-11T12:24:47.751Z</updated>
     <id>https://lzai.fun/</id>
     
     <author>
@@ -16,6 +16,27 @@
     </author>
     
     <generator uri="https://hexo.io/">Hexo</generator>
+    
+    <entry>
+        <title>雪花算法(Snowflake)</title>
+        <link href="https://lzai.fun/posts/60710.html"/>
+        <id>https://lzai.fun/posts/60710.html</id>
+        <published>2023-08-11T12:18:40.897Z</published>
+        <updated>2023-08-11T12:24:47.751Z</updated>
+        
+        <summary type="html">
+            
+            雪花算法(Snowflake)
+            
+        </summary>
+        
+        
+        <category term="后端" scheme="https://lzai.fun/categories/%E5%90%8E%E7%AB%AF/"/>
+        
+        
+        <category term="Java" scheme="https://lzai.fun/tags/Java/"/>
+        
+    </entry>
     
     <entry>
         <title>模拟行走机器人</title>
