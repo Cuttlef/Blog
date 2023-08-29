@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lzai.fun/equipment/index.html</loc>
+    <loc>https://lzai.fun/posts/43874.html</loc>
     
-    <lastmod>2023-08-14</lastmod>
+    <lastmod>2023-08-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://lzai.fun/posts/43874.html</loc>
+    <loc>https://lzai.fun/equipment/index.html</loc>
     
     <lastmod>2023-08-14</lastmod>
     
@@ -211,7 +211,7 @@
 
   <url>
     <loc>https://lzai.fun/</loc>
-    <lastmod>2023-08-25</lastmod>
+    <lastmod>2023-08-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -219,42 +219,42 @@
   
   <url>
     <loc>https://lzai.fun/tags/Nacos/</loc>
-    <lastmod>2023-08-25</lastmod>
+    <lastmod>2023-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lzai.fun/tags/mysql/</loc>
-    <lastmod>2023-08-25</lastmod>
+    <lastmod>2023-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lzai.fun/tags/%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2023-08-25</lastmod>
+    <lastmod>2023-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lzai.fun/tags/123/</loc>
-    <lastmod>2023-08-25</lastmod>
+    <lastmod>2023-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lzai.fun/tags/%E8%84%9A%E6%9C%AC/</loc>
-    <lastmod>2023-08-25</lastmod>
+    <lastmod>2023-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lzai.fun/tags/Java/</loc>
-    <lastmod>2023-08-25</lastmod>
+    <lastmod>2023-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -263,28 +263,28 @@
   
   <url>
     <loc>https://lzai.fun/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
-    <lastmod>2023-08-25</lastmod>
+    <lastmod>2023-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lzai.fun/categories/%E5%90%8E%E7%AB%AF/</loc>
-    <lastmod>2023-08-25</lastmod>
+    <lastmod>2023-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lzai.fun/categories/%E5%88%B7%E9%A2%98/</loc>
-    <lastmod>2023-08-25</lastmod>
+    <lastmod>2023-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lzai.fun/categories/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%AF/</loc>
-    <lastmod>2023-08-25</lastmod>
+    <lastmod>2023-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
